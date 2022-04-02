@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Himanshu Pahuja, Currently Doing the Internship at Blinklabs Technologies.
+- 👋 Hi, I’m @Himanshu Pahuja.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Devops.
 -
 
 <!---
