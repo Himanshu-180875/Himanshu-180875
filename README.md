@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu Pahuja.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Devops.
+- 👀 I’m a Blockchain Developer.
+
 -
 
 <!---
